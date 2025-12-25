@@ -261,20 +261,6 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-## Citation
-
-```bibtex
-@inproceedings{wali2024urdu,
-  title={Classification of Urdu News Articles: Challenges and Insights in a Low-Resource Language},
-  author={Wali, Ahmed and Humayun, Muhammad Ismail and Sherjeel, Hamza and Saqib, Yamsheen and Omer, Shanzay},
-  booktitle={Proceedings of Fall 2024 (CS 438 Machine Learning Group Project)},
-  year={2024},
-  organization={LUMS}
-}
-```
-
----
-
 ## Acknowledgments
 
 Special thanks to:
